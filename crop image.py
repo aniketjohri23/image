@@ -20,7 +20,7 @@ cv2.imshow('cropped',crop)
 
 
 
-cv2.waitkey(1)
+cv2.waitkey(10000)
 
 
 cv2.destroyAllWindows()
